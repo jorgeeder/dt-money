@@ -40,7 +40,7 @@ $ git clone https://github.com/jorgeeder/dt-money.git
 # or use the download option.
 
 # Access the dtmoney folder
-$ cd dtmoney
+$ cd dt-money
 
 # Install the dependencies
 $ yarn install
