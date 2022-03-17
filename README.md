@@ -58,6 +58,11 @@ $ npm start
 
 Made with 💜 by [Jorge Eder](https://github.com/jorgeeder)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Eder-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/jorgeeder/)](https://www.linkedin.com/in/jorgeeder/)
-
-[![Gmail Badge](https://img.shields.io/badge/-jorgeeder.dev@gmail.com-ff512f?style=plastic&logo=Gmail&logoColor=white&link=mailto:jorgeeder.dev@gmail.com)](mailto:jorgeeder.dev@gmail.com/)
+<p>
+  <a href="https://www.linkedin.com/in/jorgeeder/">
+      <img alt="Linkedin" src="https://img.shields.io/badge/-Jorge%20Eder-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/jorgeeder/">
+  </a>
+  <a href = "mailto:jorgeeder.dev@gmail.com">
+  <img alt="jorgeeder" src="https://img.shields.io/badge/-jorgeeder.dev@gmail.com-ff512f?style=plastic&logo=Gmail&logoColor=white&link=mailto:jorgeeder.dev@gmail.com">
+  </a>
+</p>
