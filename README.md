@@ -1,6 +1,6 @@
-# RocketSeat 🔥 Ignite ReactJS
-
-## Module 2 - First web application with React ( DT Money )
+# DT Money
+## First web application with React 
+### Module 2 - RocketSeat - Ignite ReactJS 🔥
 
 ---
 <p>
